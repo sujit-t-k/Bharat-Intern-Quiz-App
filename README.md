@@ -11,5 +11,5 @@ Java based GuI Application built using Java swing in Netbeans IDE, Windows 11 fo
 
 1.) Download this repository in ZIP format. <br>
 2.) Extract the ZIP file. <br>
-3.) Look into "dist" folder and you can find "ToDoList.jar". <br>
-4.) Simply double click on the "ToDoList.jar" to launch the application.
+3.) Look into "dist" folder and you can find "QuizApp.jar". <br>
+4.) Simply double click on the "QuizApp.jar" to launch the application.
